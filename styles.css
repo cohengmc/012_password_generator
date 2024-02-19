@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: linear-gradient(silver, lightblue);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-family: "Anta", sans-serif;
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+
+button {
+    margin-top: 2em;
+    font-family: inherit;
+    font-size: 100%;
+    padding: .5em 1em;
+    border-radius: 8px;
+}
